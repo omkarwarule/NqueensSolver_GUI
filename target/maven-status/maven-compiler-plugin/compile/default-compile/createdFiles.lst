@@ -1,0 +1,6 @@
+com\example\nqueenssolver\solver\NQueensSolver.class
+com\example\nqueenssolver\gui\NQueensSolverGUI.class
+com\example\nqueenssolver\solver\NQueensThread$ChessboardPanel.class
+com\example\nqueenssolver\gui\NQueensSolverGUI$1.class
+com\example\nqueenssolver\Main.class
+com\example\nqueenssolver\solver\NQueensThread.class
